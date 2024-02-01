@@ -6,8 +6,6 @@ This website showcases Sharlotte Holmes' skills, interests, and projects. Below,
 
 ## Home
 
-![Home](IMG_4027.JPG)
-
 - **Introduction**: The Home section introduces Sharlotte Holmes as a dedicated Software Engineering student passionate about coding and problem-solving.
 
 - **Social Media Links**: You can connect with Sharlotte on various social media platforms through the icons provided.
@@ -19,8 +17,6 @@ This website showcases Sharlotte Holmes' skills, interests, and projects. Below,
 - **About Me**: In the About section, Sharlotte shares her interests, including a passion for reading, aquatic pursuits, and travel. This section provides insights into her personality and interests.
 
 ## Portfolio
-
-![Portfolio](IMG_4055.jpg)
 
 - **Projects**: The Portfolio section lists some of Sharlotte's projects, including Black Jack in Python, Circular Buffer in C++, Soccer Team Roster in C++, Text Analysis in C++, and Dessert Shop in Python.
 
