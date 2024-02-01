@@ -91,7 +91,7 @@
 }
 
 .home-content p {
-    font-size: 16px; /*change back to 16*/
+    font-size: 16px;
     margin-top: 20px;
 }
 
@@ -172,7 +172,7 @@
 }
 
 .about-content p {
-    font-size: 12px; /*change back to 16*/
+    font-size: 16px;
     margin-top: 20px;
     text-align: left;
 }
